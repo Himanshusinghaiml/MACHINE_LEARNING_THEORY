@@ -1,0 +1,44 @@
+#types of Machine learning ->
+
+1. Supervised learning 
+2. Unsupervised learning 
+3. Reinforcement learning 
+Supervised Learning-> In supervised learning we have labelled data which means already know about input and output  .  
+we have to only processed the data and based on the input and output .
+
+supervised learning divides in to two parts-
+1-> classification                 2 -> Regression 
+
+In classification we have to judge only two factors either true or false,means binary digit,
+failed or passed . that means we are categorized in to two parts ,either this or that.  continous value .
+
+Algorithm  used in Classification ->
+
+1. Naive bayes Algorithm
+2. Support vector machine (SVM)
+3. Decision tree 
+4. Logistic Regression 
+
+Regression ->  In regression algorithm, we predict the output . we can not judge what's the exactly output . it can be something .: A regression problem is when the output variable is a real value.
+
+Algorithm used in Regression ->
+
+1. Linear Regression 
+2.
+3.
+4
+
+
+Unsupervised Learning ->  In unsupervised learning , we have data in the from only input .or we can say unlabelled data. 
+we have to predict the model based on the input basis .
+
+basically divides in to two parts.->
+1. clustering 
+2. Assosciation 
+
+Algorithm used in unsupervised ->
+
+1. K-means clustering
+2.Hierarchical clustering
+3.Apriori algorithms
+
