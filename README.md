@@ -17,3 +17,8 @@ these two lines code only add two number .if we give more numbers to add the num
 
 but in machine learning once again you predict  the model  with 100 accuracy .then no need to change anything. and you can  give either 2,10,1000,30000 anythng random,they calculate .
 MACHINE LEANRNING 
+
+Deep learning
+NLP
+computer vision
+
